@@ -1,7 +1,5 @@
 # Hook-flow playground
 
-<img align="right" src="mb-flag.png">
-
 **First:** fork
 
 **Second:** do a little :
